@@ -6,6 +6,11 @@ This is a simple Application which is performing the CRUD for a memory post.
 
 Using `React`, `Node.js`, `Express` & `MongoDB` you'll learn how to build a `Full Stack MERN Application`
 
+## Backend:
+
+You can find the backend `Node` repository [`backend-memories`](https://github.com/umer4447/backend-memories)
+
+
 
 ## ScreenShot for the implementation: 
 
@@ -15,3 +20,5 @@ Using `React`, `Node.js`, `Express` & `MongoDB` you'll learn how to build a `Ful
 ## Setup:
 
 run `npm i && npm start` for both client and server side to start the app
+
+
